@@ -1,0 +1,87 @@
+#data-view,
+.el-input__inner,
+.el-time-spinner__item,
+.el-time-panel__btn,
+.el-form-item__label,
+.el-select-dropdown__item,
+.el-select-dropdown__item:active,
+.el-popover,
+.el-progress-bar__innerText {
+  color: #33ffbd !important;
+}
+.el-form-item__label {
+  font-size: 15px !important;
+}
+.el-tabs__item.is-active,
+.el-tabs__item:hover {
+  color: aqua !important;
+}
+:root {
+  --el-border-color-light: #3d3d3d !important;
+}
+.el-tabs__active-bar {
+  background-color: aqua !important;
+}
+.el-tabs__item {
+  color: gainsboro !important;
+}
+.el-button--info {
+  border-width: 0 !important;
+  background-color: #3c3c3c !important;
+}
+.el-button--info:hover {
+  background-color: #494949 !important;
+}
+.el-button--info:active {
+  background-color: #303030 !important;
+}
+.el-input__inner {
+  background-color: rgba(255, 255, 255, 0.247) !important;
+  border: 0 !important;
+}
+.el-select__popper,
+.el-time-panel,
+.el-popover,
+.el-picker__popper {
+  background-color: #858d9480 !important;
+}
+.el-select-dropdown__item:hover,
+.el-time-spinner__item:hover {
+  background-color: #9ba1a780 !important;
+}
+#data-view {
+  background-color: #030409;
+}
+#data-view #dv-full-screen-container {
+  background-image: url("bg.png");
+}
+#data-view #dv-full-screen-container .container .left-container {
+  background-image: linear-gradient(to right, #415265f0, #41526590);
+}
+#data-view #dv-full-screen-container .container .right-container {
+  background-image: linear-gradient(to left, #415265f0, #41526590);
+}
+.el-select__popper {
+  border: 0 !important;
+}
+.el-popover {
+  border: 0 !important;
+}
+.driver-list-container {
+  width: 80%;
+}
+.driver-list-container .driver-card {
+  background-color: #41526550;
+}
+.amap-marker-label {
+  background-color: rgba(255, 255, 255, 0.247) !important;
+}
+.amap-menu-outer {
+  background-color: #395069ab !important;
+}
+ul.amap-menu-outer li:hover {
+  background-color: rgba(255, 255, 255, 0.247) !important;
+}
+.el-progress-bar__outer {
+  background-color: #9ba1a780 !important;
+}
